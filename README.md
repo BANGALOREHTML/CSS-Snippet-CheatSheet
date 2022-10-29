@@ -16,5 +16,5 @@ Hierarchy
 ### Screenshot of working application and link to deployed application
 ![Screenshot of Deployed Application](/)
 
-Deployed Website Link [Click Here!]()
+Deployed Website Link [Click Here!](https://bangalorehtml.github.io/CSS-Snippet-CheatSheet/)
 
